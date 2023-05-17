@@ -10,14 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.util.List;
 
-// Main Reference :
-// https://www.youtube.com/watch?v=foARzSz_1WU&ab_channel=TutusFunny
 
-// Reference for Searching :
-// https://codebun.com/spring-boot-search-example-using-thymeleaf-and-spring-data-jpa/
-
-// For navbar or other html items the reference is :
-// https://getbootstrap.com
 @Controller
 public class BookController {
 
